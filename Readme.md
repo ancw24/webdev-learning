@@ -8,6 +8,6 @@ There are 3 main categories of this repository, that will be used to store infor
 
 | Category | Description |
 | -------- | :---------- |
-| Lessons | References to material for reading more detailed documentations / tutorials about a topic that was discussed in a lesson. The list ist extended every day. |
-| Exercises | References to exercises, codepens, etc. that get added when they're done and show some of the solutions that solve common problems in web development. |
-| Resources | Links, code snippets and more useful resources that help to become a good developer and speed up your development environment and process. |
+| [Lessons](./lessons/) | References to material for reading more detailed documentations / tutorials about a topic that was discussed in a lesson. The list ist extended every day. |
+| [Exercises](./exercises/) | References to exercises, codepens, etc. that get added when they're done and show some of the solutions that solve common problems in web development. |
+| [Resources](./resources/) | Links, code snippets and more useful resources that help to become a good developer and speed up your development environment and process. |
