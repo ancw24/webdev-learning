@@ -1,4 +1,4 @@
-# FBW 10 - Resources
+# FBW 10 - The Collection
 
 This repository contains all the information that our students need to read more about a specific topic, repeat things learned before, look at exercises that have been done or find useful resources like links.
 
