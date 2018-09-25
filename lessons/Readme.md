@@ -146,13 +146,14 @@ git config --global user.name "GIT SERVICE NAME (NOT USERNAME)"
 
 ## JavaScript
 
-1. [Variable and Scope](https://codepen.io/noreading/pen/BJPNYq/?editors=0010)
-1. [Basic data types](https://codepen.io/noreading/pen/LJdEvJ?editors=0010)
-1. [Type Conversion](https://codepen.io/noreading/pen/eLrOaj?editors=0011)
-1. [Basic Operators](https://codepen.io/noreading/pen/JavjVX?editors=0001)
-1. [Conditions](https://codepen.io/noreading/pen/RYyrZy?editors=0012)
-1. [Loops](https://codepen.io/noreading/pen/XPYrLY?editors=0012)
-1. [Functions](https://codepen.io/noreading/pen/oPyXWM?editors=0010)
+1. [Variable and Scope](https://codepen.io/noreading/pen/BJPNYq)
+1. [Basic data types](https://codepen.io/noreading/pen/LJdEvJ)
+1. [Type Conversion](https://codepen.io/noreading/pen/eLrOaj)
+1. [Basic Operators](https://codepen.io/noreading/pen/JavjVX)
+1. [Conditions](https://codepen.io/noreading/pen/RYyrZy)
+1. [Loops](https://codepen.io/noreading/pen/XPYrLY)
+1. [Functions](https://codepen.io/noreading/pen/oPyXWM)
 1. [FizzBuzz Solutions](http://jsbin.com/doqopokego/edit?js,console)
 1. [Arrays](https://codepen.io/noreading/pen/PdVJWz)
 1. [Ninja Code](https://codepen.io/noreading/pen/wEbMgx)
+1. [Objects](https://codepen.io/noreading/pen/OoeNzY)
