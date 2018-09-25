@@ -50,6 +50,61 @@ This is another exercise for the pseudo classes to target only specific elements
 
 This is an exercise for media queries. You need to remember how to react on screen sizes and different media devices.
 
-You need to load the result of [Exercise 2 in CSS Pseudo Classes](#exercise-2)
+You need to load the result of [Exercise 2](#exercise-2) for CSS Pseudo Classes, that will be the template for this exercise, where you need to upgrade your HTML and CSS, to get a responsive website.
 
 [Exercise: Update the gallery and business page, to be responsive](https://github.com/FBW-10/exercise-008-css-media-queries)
+
+### 8. CSS Flexbox
+
+This is an exercise for Flexbox - a modern approach to build multi-column and flexible layouts. You need to remember how to use the most common flexbox properties, like **flex**, **flex-grow**, **align-items**, etc. to build a responsive website.
+
+[Exercise: Build a Flexbox version of an instagram profile](https://github.com/FBW-10/exercise-009-css-flexbox)
+
+### 9. Bootstrap
+
+This is an exercise for Bootstrap 4 and the most commonly used features for basic websites. Knowing all of those components, you can already build many of the websites that you'll find out there in the wild.
+
+[Exercise: Use the most common Bootstrap 4 components](https://github.com/FBW-10/exercise-010-bootstrap)
+
+## JavaScript
+
+### 1. Variables and Conditions
+
+This is an exercise to use variables and conditions together with **document.write**, to show a different message to the user, based on the user's time and language, that are read from the browser.
+
+[Exercise: Show a message, based on time and language](https://codepen.io/noreading/pen/PdrrKq?editors=0010)
+
+[Solution](https://codepen.io/noreading/pen/BOggqL?editors=0010)
+
+### 2. Function Basics
+
+This is an exercise to create a function and conditions to return the greated of 2 numbers.
+
+[Exercise: Return the greater number](https://codepen.io/noreading/pen/WgqqqZ?editors=0012)
+
+[Solution](https://codepen.io/noreading/pen/XPLLwy/?editors=0012)
+
+### 3. A Function to reverse an integer
+
+This is an exercise about how to combine functions with strings, arrays and built-in JavaScript functions. The exercise needs some careful thinking and is not as easy as it might seem in the beginning.
+
+[Exercise: Reverse an integer](https://codepen.io/noreading/pen/oPrKBj?editors=0012)
+
+[Solution](https://codepen.io/noreading/pen/gdNVRR?editors=0012)
+
+### 4. A Function to capitalize all words in a string
+
+This is an exercise that results in a function that capitalizes all words in a string.
+
+[Exercise: Capitalize all words in a string](https://codepen.io/noreading/pen/oPrKqL?editors=0012)
+
+[Solution](https://codepen.io/noreading/pen/pOXMVq?editors=0012)
+
+### 5. Exercises for Functions, Loops & Arrays
+
+This is a collection of 3 exercises, that repeat the basics of functions, loops and arrays. Finding the longest word in a string or finding all numbers that are dividable by a given divisor are interesting problems to solve.
+
+[Exercises: Functions, Loops & Arrays](https://codepen.io/noreading/pen/jvoBOe?editors=0012)
+
+[Solution](https://codepen.io/noreading/pen/bxyRNB?editors=0012)
+
