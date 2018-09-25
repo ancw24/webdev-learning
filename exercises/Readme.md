@@ -106,5 +106,12 @@ This is a collection of 3 exercises, that repeat the basics of functions, loops 
 
 [Exercises: Functions, Loops & Arrays](https://codepen.io/noreading/pen/jvoBOe?editors=0012)
 
-[Solution](https://codepen.io/noreading/pen/bxyRNB?editors=0012)
+[Solutions](https://codepen.io/noreading/pen/bxyRNB?editors=0012)
 
+### 6. Exercises for Functions, Loops & Objects
+
+This is a collection of 3 exercises,. that repeat the basics for objects, together with functions and loops. You have to filter a list of books by a given attribute and calculate grades for the assignment of a group of students.
+
+[Exercise: Functions, Loops & Objects](https://codepen.io/noreading/pen/pOXRYV?editors=0012)
+
+[Solutions](https://codepen.io/noreading/pen/xaoqeE?editors=0012)
