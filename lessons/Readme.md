@@ -19,6 +19,9 @@
 1. Package management on Ubuntu using **apt**  
    [Ubuntu Help Page: apt](https://help.ubuntu.com/lts/serverguide/apt.html.en)
 
+1. A game to repeat the learned commands on the terminal  
+   [Terminus - The Terminal Game](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+
 1. An article explaining how to a generate new SSH key (to use for Github, etc.)  
    [Generating a new SSH key](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#platform-linux)
 
