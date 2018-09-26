@@ -115,3 +115,27 @@ This is a collection of 3 exercises,. that repeat the basics for objects, togeth
 [Exercise: Functions, Loops & Objects](https://codepen.io/noreading/pen/pOXRYV?editors=0012)
 
 [Solutions](https://codepen.io/noreading/pen/xaoqeE?editors=0012)
+
+### 7. Quote of the day
+
+This is an exercise to build a "Quote of the day" website that shows a random quote, every time the page is reloaded. It includes a button to load another random quote and repeats the usage of functions, events and DOM manipulation.
+
+[Exercise: Quote of the day](https://codepen.io/noreading/pen/LJwbrO?editors=0010)
+
+[Solution](https://codepen.io/noreading/pen/gdVgNr?editors=0010)
+
+### 8. Reversing a list
+
+This is an exercise to reverse a list of items (ul / ol) using functions, events and DOM manipulation again.
+
+[Exercise: Reverse a list](https://codepen.io/noreading/pen/XPvRgd?editors=0010)
+
+[Solution](https://codepen.io/noreading/pen/LJwWPK?editors=0010)
+
+### 9. Calculation X
+
+This is an exercise to create a calculation website, that uses a form to calculate the classic mathematical operations for adding, subtracting, etc.
+
+[Exercise: Create a calculator](https://codepen.io/noreading/pen/EeqwyK?editors=0010)
+
+[Solution](https://codepen.io/noreading/pen/EeqvNJ?editors=0010)
