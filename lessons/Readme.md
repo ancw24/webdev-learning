@@ -160,3 +160,4 @@ git config --global user.name "GIT SERVICE NAME (NOT USERNAME)"
 1. [Arrays](https://codepen.io/noreading/pen/PdVJWz)
 1. [Ninja Code](https://codepen.io/noreading/pen/wEbMgx)
 1. [Objects](https://codepen.io/noreading/pen/OoeNzY)
+1. [DOM Manipulation](https://codepen.io/noreading/pen/GYRYWm)
