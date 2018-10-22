@@ -32,7 +32,8 @@
 
 ## Git - Version Control
 
-1. Setting the basic Git configuration values:  
+1. Setting the basic Git configuration values:
+
 ```bash
 git config --global user.email "GIT SERVICE EMAIL"
 git config --global user.name "GIT SERVICE NAME (NOT USERNAME)"
@@ -50,7 +51,7 @@ git config --global user.name "GIT SERVICE NAME (NOT USERNAME)"
 1. A cheat sheet for the most common git commands:  
    [Git Cheat Sheet](./git/git-cheatsheet-EN-grey.pdf)
 
-1. Removing all outdated branches, that are not existent on the remote anymore:  
+1. Removing all outdated branches, that are not existent on the remote anymore:
    ```
    git fetch --prune
    ```
@@ -60,7 +61,7 @@ git config --global user.name "GIT SERVICE NAME (NOT USERNAME)"
 1. A markdown introduction  
    [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 
-1. Changing the size of an image  
+1. Changing the size of an image
    ```
    ![Penguin](https://your-image-file.com/foobar.jpg... =250x))
    ![Penguin](https://your-image-file.com/foobar.jpg... =250x150
@@ -77,7 +78,8 @@ git config --global user.name "GIT SERVICE NAME (NOT USERNAME)"
 1. A list of HTML entities  
    [HTML entities](https://dev.w3.org/html5/html-author/charref)
 
-1. Using comments in CSS to document the structure of a file  
+1. Using comments in CSS to document the structure of a file
+
    ```CSS
    /*
    * Table of Contents
@@ -87,25 +89,25 @@ git config --global user.name "GIT SERVICE NAME (NOT USERNAME)"
    * 3. Content
    * 4. Footer
    */
-  
+
    /* 1. Global Styles
    ----------------------------------------*/
    ```
 
-
-1. A simple image hover effect, using ::after  
+1) A simple image hover effect, using ::after  
    [Image hover effect demo](https://codepen.io/noreading/pen/XBGgvo)
 
-1. A small example how to use the **overflow** property  
+1) A small example how to use the **overflow** property  
    [Content overflow demo](https://codepen.io/noreading/pen/vaPJmy?editors=1100)
 
-1. A free icon font for the web  
+1) A free icon font for the web  
    [fontawesome.com](https://fontawesome.com/)
 
-1. A free CSS Grid course by Wes Bos  
+1) A free CSS Grid course by Wes Bos  
    [cssgrid.io](https://cssgrid.io/)
 
-1. Flexbox and Grid games:
+1) Flexbox and Grid games:
+
    - Flexbox Froggy  
      [https://flexboxfroggy.com/](https://flexboxfroggy.com/)
 
@@ -115,20 +117,22 @@ git config --global user.name "GIT SERVICE NAME (NOT USERNAME)"
    - Grid Garden  
      [https://cssgridgarden.com/](https://cssgridgarden.com/)
 
-1. A small version of a self-built grid system  
+1) A small version of a self-built grid system  
    [Small Grid System](http://jsbin.com/yarijolure/edit?html,css,output)
 
-1. BEM - A CSS coding standard  
+1) BEM - A CSS coding standard  
    [getbem.com](http://getbem.com/)
 
 ## SASS / SCSS
 
-1. A SASS-compiler with included bugfixes (npm)  
+1. A SASS-compiler with included bugfixes (npm)
+
    ```
    npm i -g node-sass-chokidar
    ```
 
-1. Running the SASS-compiler in **watch mode** that watches for file changes and re-compiles automatically.  
+1. Running the SASS-compiler in **watch mode** that watches for file changes and re-compiles automatically.
+
    ```
    node-sass-chokidar scss/ --output css/ --output-style compressed --source-map true --watch
    ```
@@ -162,3 +166,4 @@ git config --global user.name "GIT SERVICE NAME (NOT USERNAME)"
 1. [Objects](https://codepen.io/noreading/pen/OoeNzY)
 1. [DOM Manipulation](https://codepen.io/noreading/pen/GYRYWm)
 1. [DOM Events](https://codepen.io/noreading/pen/wYvNZE)
+1. [Classes & Inheritance](https://codepen.io/noreading/pen/YJjjMr?editors=0012)
