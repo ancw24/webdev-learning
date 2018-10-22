@@ -167,3 +167,5 @@ git config --global user.name "GIT SERVICE NAME (NOT USERNAME)"
 1. [DOM Manipulation](https://codepen.io/noreading/pen/GYRYWm)
 1. [DOM Events](https://codepen.io/noreading/pen/wYvNZE)
 1. [Classes & Inheritance](https://codepen.io/noreading/pen/YJjjMr?editors=0012)
+1. [Classes: A Github repository list](https://codepen.io/noreading/pen/YJaVqG?editors=0010)
+1. [Classes: A Github repository list widget](https://codepen.io/noreading/pen/ZqjXba?editors=0010)
