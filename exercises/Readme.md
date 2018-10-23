@@ -139,3 +139,27 @@ This is an exercise to create a calculation website, that uses a form to calcula
 [Exercise: Create a calculator](https://codepen.io/noreading/pen/EeqwyK?editors=0010)
 
 [Solution](https://codepen.io/noreading/pen/EeqvNJ?editors=0010)
+
+### 10. Random Color Generator
+
+This is an exercise to create a random color generator, to create a fancy color palette using HEX color values.
+
+[Exercise: Create a Random Color Generator](https://codepen.io/noreading/pen/jeaMJo?editors=0010)
+
+[Solution](https://codepen.io/noreading/pen/dgJpby/?editors=0010)
+
+### 11. Extend the Dogs
+
+This is an exercise to create a class that gets extended by another class and is used for different kinds of dogs, that have different "features".
+
+[Exercise: Extend the Dogs](https://codepen.io/noreading/pen/rqZRgX?editors=0010)
+
+[Solution](https://codepen.io/noreading/pen/yRxrLr?editors=0012)
+
+### 12. Crypto Currency Converter
+
+This is an exercise to create a crypto currency converter, to calculate the amount of USD for Bitcoin, Litecoin, etc., which can also be extended to switch the target currency (EUR, USD, etc.).
+
+[Exercise: Crypto Currency Converter](https://codepen.io/noreading/pen/ReYOjM?editors=0010)
+
+[Solution](https://codepen.io/noreading/pen/pxOOMy?editors=1010)
